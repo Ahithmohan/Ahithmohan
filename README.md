@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I’m a Flutter Developer passionate about crafting sleek and user-friendly mobile applications. My focus lies in building intuitive interfaces, integrating powerful APIs, and creating apps that leave a lasting impact.</p>
+<p align="left">I’m Ahith Mohan, a Flutter developer passionate about building cross-platform mobile apps with clean, efficient, and scalable code. With expertise in Flutter and Dart, I focus on creating user-friendly applications that work seamlessly on both Android and iOS. I enjoy crafting beautiful UIs, integrating APIs, and optimizing app performance.
+
+Let’s connect to collaborate on innovative projects or discuss ideas for building exceptional apps!</p>
 
 ###
 
